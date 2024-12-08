@@ -5,6 +5,8 @@ __pycache__/
 *.pptx
 .idea
 
+output_images
+wandb
 # C extensions
 *.so
 
